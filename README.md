@@ -1,4 +1,4 @@
-# GraphQL_React_SongManagmentDemo
+# GraphQL_React_SongManagment-Demo
 
 				
 
@@ -30,4 +30,6 @@ use this url for mlab database creation  [mlab doc][https://docs.mlab.com/]
  - User can update for particular song
 
 
+### License
 
+MIT © [AshishTarsariya](https://github.com/tarsariyaashish43)
